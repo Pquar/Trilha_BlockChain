@@ -10,7 +10,7 @@
 
 - Criado uma nova regra em Amazon EventBridge para chamar um função lambda que armazenar o token criado pelo OrderProcessor que e armazenado em uma tabela no DynamoDB(Itens: serverlesspresso-order-table) através da função chamada do lambda.
 - Usando o fluxo de trabalho fornecido do workshop da Amazon, o qual pode fazer 4 tarefas.
-    ![GerenciadorDePedidos](GerenciadorDePedidos.png)
+    ![GerenciadorDePedidos](imgs/GerenciadorDePedidos.png)
     >Imagem fornecida pelo workshop da Amazon
     - Colocação do cliente : é quando um cliente envia um pedido de bebida, o fluxo de trabalho limpa esse pedido em relação ao menu atual para garantir que seja uma seleção válida e, em seguida, atualiza a tabela serverlesspresso-order-order com as informações do pedido.
     - Cancelar pedido : esse caminho é usado quando o barista ou o cliente decide cancelar um pedido.
