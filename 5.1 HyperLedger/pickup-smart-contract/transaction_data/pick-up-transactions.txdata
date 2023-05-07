@@ -1,0 +1,77 @@
+[
+    {
+        "transactionName": "createPickUp",
+        "transactionLabel": "Creating PickUp 001",
+        "arguments": [
+            "001",
+            {
+                "driver": "Driver 1",
+                "truck": "AJU890G",
+                "dateTime": 1666807023540,
+                "quantity": 100,
+                "UOM": "kg"
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createPickUp",
+        "transactionLabel": "Creating PickUp 002",
+        "arguments": [
+            "002",
+            {
+                "driver": "Driver 1",
+                "truck": "AJU890G",
+                "dateTime": 1666807257396,
+                "quantity": 256,
+                "UOM": "kg"
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createPickUp",
+        "transactionLabel": "Creating PickUp 003",
+        "arguments": [
+            "003",
+            {
+                "driver": "Driver 1",
+                "truck": "AJU890G",
+                "dateTime": 1666807466165,
+                "quantity": 980,
+                "UOM": "g"
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createPickUp",
+        "transactionLabel": "Creating PickUp 004",
+        "arguments": [
+            "004",
+            {
+                "driver": "Driver 2",
+                "truck": "JLI324U",
+                "dateTime": 1666807675075,
+                "quantity": 1.7,
+                "UOM": "t"
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createPickUp",
+        "transactionLabel": "Creating PickUp 005",
+        "arguments": [
+            "005",
+            {
+                "driver": "Driver 2",
+                "truck": "JLI324U",
+                "dateTime": 1666807886120,
+                "quantity": 578,
+                "UOM": "kg"
+            }
+        ],
+        "transientData": {}
+    }
+]

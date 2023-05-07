@@ -1,0 +1,8 @@
+{
+    "index": {
+      "fields": ["driver"]
+    },
+    "ddoc" : "indexDriverDoc",
+    "name" : "indexDriver",
+    "type" : "json"
+  }

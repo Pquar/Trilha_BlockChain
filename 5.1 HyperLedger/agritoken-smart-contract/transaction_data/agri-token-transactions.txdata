@@ -1,0 +1,119 @@
+[
+    {
+        "transactionName": "createAgriToken",
+        "transactionLabel": "New token",
+        "arguments": [
+            "001",
+            {
+                "producer": "John Who",
+                "status": "fundraising",
+                "totalRaised": 0,
+                "registerDate": "01/11/2022",
+                "product": "corn",
+                "place": "Corn Farm",
+                "investors": [],
+                "events": []
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addInvestor",
+        "transactionLabel": "Add first investor",
+        "arguments": [
+            "001",
+            {
+                "investor": "Marry Sywo",
+                "investedValue": 600,
+                "expectedReturn": 60
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addInvestor",
+        "transactionLabel": "Add second investor",
+        "arguments": [
+            "001",
+            {
+                "investor": "Garry Don",
+                "investedValue": 400,
+                "expectedReturn": 40
+            }
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addEvent",
+        "transactionLabel": "Add seeding event",
+        "arguments": [
+            "001",
+            {
+                "description": "seeding",
+                "date": "15/11/2022",
+                "quantity": 80,
+                "price": 89
+            },
+            "growing"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addEvent",
+        "transactionLabel": "Add fertilizers event",
+        "arguments": [
+            "001",
+            {
+                "description": "fertilizers applied",
+                "date": "17/11/2022",
+                "quantity": 18,
+                "price": 7
+            },
+            ""
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addEvent",
+        "transactionLabel": "Add pesticides event",
+        "arguments": [
+            "001",
+            {
+                "description": "pesticides applied",
+                "date": "18/11/2022",
+                "quantity": 2,
+                "price": 4
+            },
+            ""
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addEvent",
+        "transactionLabel": "Add freezing event",
+        "arguments": [
+            "001",
+            {
+                "description": "freezing",
+                "date": "25/11/2022",
+                "quantity": 10
+            },
+            ""
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "addEvent",
+        "transactionLabel": "Add harvest event",
+        "arguments": [
+            "001",
+            {
+                "description": "harvest",
+                "date": "18/06/2023",
+                "quantity": 168
+            },
+            "done"
+        ],
+        "transientData": {}
+    }
+]
