@@ -2,12 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-.vscode
-.editorconfig
-.eslintignore
-.eslintrc.js
-.npmignore
-/test
+
 # Logs
 logs
 *.log

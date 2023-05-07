@@ -5,6 +5,7 @@
 .editorconfig
 .eslintignore
 .eslintrc.js
+.gitignore
 .npmignore
 /test
 # Logs

@@ -1,2 +1,11 @@
 5.1_Hyperledger Fabric/bilhetecontrato
-5.1_Hyperledger Fabric/HyperLedger Fabric Conceitos
+
+.vscode
+.editorconfig
+.eslintignore
+.eslintrc.js
+.gitignore
+.npmignore
+test
+
+/pickupdois-smart-contract
