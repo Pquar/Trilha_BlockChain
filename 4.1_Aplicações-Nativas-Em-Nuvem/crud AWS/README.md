@@ -114,18 +114,19 @@ DELETE /items/{id}
 >Deploy API e anexar integrações as rotas.
 
 # Resulta das consultas com métodos GET, POST, PUT e DELETE
+o Atualmente o serviço foi excluido.
 ### API Testada com o Postman
 #### GET /items 
-https://e0zxhb8xc9.execute-api.us-east-1.amazonaws.com/items
+https://******.execute-api.us-east-1.amazonaws.com/items
 ![Método Get items](get_items.jpg)
 #### GET /items/{id}
-https://e0zxhb8xc9.execute-api.us-east-1.amazonaws.com/items/```valor%201```
+https://******.execute-api.us-east-1.amazonaws.com/items/```valor%201```
 ![Método get id](get_id.jpg)
 #### DELETE /items/{id}
-https://e0zxhb8xc9.execute-api.us-east-1.amazonaws.com/items/```valor%201```
+https://******.execute-api.us-east-1.amazonaws.com/items/```valor%201```
 ![Método delete](delete_id.jpg)
 #### PUT /items
-https://e0zxhb8xc9.execute-api.us-east-1.amazonaws.com/items/```valor%201```
+https://******.execute-api.us-east-1.amazonaws.com/items/```valor%201```
 
 ```json
 body: 
