@@ -66,8 +66,6 @@ Definição -> plataforma de consenso transacional formada por conceitos de bloc
 - Token API, que que chama a criação de uma imagem para OpenAI API, que gera uma imagem aleatória com base na descrição, manda esta imagem gerada para INFURA IPFS API para armazenar a imagem na rede IPFS, e retorna o link da imagem gerada, em seguida e criado o NFT com as características paradas para gerar a imagem e o link na rede IPFS para imagem gerada na Rede Hathor Network.
 
 Imagem gerada no WebNar,
-<div style="display: flex; ">
-
 
 ```json
 {
@@ -83,6 +81,5 @@ directed acyclic graph + Hathor + Compass + POV + point of view",
 ```
 
 ![NFT do projeto Gerado](hathor.png)
-</div>
 
 
